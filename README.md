@@ -1,4 +1,4 @@
-# Heron Rodrigues
+# Heron Sousa
 
 <section>
 Front-end developer.
